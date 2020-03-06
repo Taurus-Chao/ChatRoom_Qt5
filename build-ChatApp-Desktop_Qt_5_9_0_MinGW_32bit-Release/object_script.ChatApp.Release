@@ -1,0 +1,14 @@
+INPUT(
+./release\main.o
+./release\widget.o
+./release\drawer.o
+./release\qdlglogin.o
+./release\server.o
+./release\client.o
+./release\qrc_mychat.o
+./release\moc_widget.o
+./release\moc_drawer.o
+./release\moc_qdlglogin.o
+./release\moc_server.o
+./release\moc_client.o
+);

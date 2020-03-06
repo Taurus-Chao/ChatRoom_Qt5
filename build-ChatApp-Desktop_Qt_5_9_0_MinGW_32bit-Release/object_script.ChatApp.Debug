@@ -1,0 +1,14 @@
+INPUT(
+./debug\main.o
+./debug\widget.o
+./debug\drawer.o
+./debug\qdlglogin.o
+./debug\server.o
+./debug\client.o
+./debug\qrc_mychat.o
+./debug\moc_widget.o
+./debug\moc_drawer.o
+./debug\moc_qdlglogin.o
+./debug\moc_server.o
+./debug\moc_client.o
+);
