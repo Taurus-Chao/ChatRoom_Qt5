@@ -9,35 +9,35 @@
 
 每个用户聊天窗既可做服务器也能作为客户端，P2P系统。
 
-## 登录界面
+## 一、登录界面
 
-![Image text]()
+![Image text](https://raw.githubusercontent.com/Taurus-Chao/ChatRoom_Qt5/master/imgstorage/login.png)
 
 采用Splash窗口呈现登录界面，根据登录输入状况确定启动主窗口或终止程序运行。目前设定的用户信息：
 * 用户名:root 密码:0000，是测试用户，会启动一个所有用户列表，单击某个图标即以该用户身份信息进入聊天室。
-* 用户名:user1~user4 密码：12345，会以用户1~用户4的身份进入聊天室。
+* 用户名:user1-user4 密码：12345，会以用户1-用户4的身份进入聊天室。
 
-## 主界面
+## 二、主界面
 
 root用户的用户列表界面：
 
-![Image text]()
+![Image text](https://raw.githubusercontent.com/Taurus-Chao/ChatRoom_Qt5/master/imgstorage/rootWidget.png)
 
 从用户列表中单击进入，或普通用户的主界面：
 
-![Image text]()
+![Image text](https://raw.githubusercontent.com/Taurus-Chao/ChatRoom_Qt5/master/imgstorage/Widget.png)
 
-## 发送文件
+## 三、发送文件
 
-![Image text]()
+![Image text](https://raw.githubusercontent.com/Taurus-Chao/ChatRoom_Qt5/master/imgstorage/send.png)
 
-## 接收文件
+## 四、接收文件
 
-![Image text]()
+![Image text](https://raw.githubusercontent.com/Taurus-Chao/ChatRoom_Qt5/master/imgstorage/receive1.png)
 
-## 保存聊天记录
+## 五、保存聊天记录
 
-![Image text]()
+![Image text](https://raw.githubusercontent.com/Taurus-Chao/ChatRoom_Qt5/master/imgstorage/Widget2.png)
 
 可以选择路径保存聊天记录为纯文本的记事本格式。
 
